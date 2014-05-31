@@ -1,0 +1,1380 @@
+TDenver Deals
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Info.plist /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Denver\ Deals-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Script-304B58A110DAC018002A0835.sh
+cCpResource Denver\ Deals/Resources/icons/icon-76.png build/emulator/Denver\ Deals.app/icon-76.png
+cCpResource Denver\ Deals/Resources/icons/icon-40@2x.png build/emulator/Denver\ Deals.app/icon-40@2x.png
+cCpResource Denver\ Deals/Resources/icons/icon-72.png build/emulator/Denver\ Deals.app/icon-72.png
+cCpResource Denver\ Deals/Resources/icons/icon.png build/emulator/Denver\ Deals.app/icon.png
+cCpResource Denver\ Deals/Resources/icons/icon@2x.png build/emulator/Denver\ Deals.app/icon@2x.png
+cCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/en.lproj/Localizable.strings Denver\ Deals/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.xib
+cCpResource Denver\ Deals/Resources/icons/icon-50.png build/emulator/Denver\ Deals.app/icon-50.png
+cCpResource Denver\ Deals/Resources/icons/icon-60@2x.png build/emulator/Denver\ Deals.app/icon-60@2x.png
+cCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/de.lproj/Localizable.strings Denver\ Deals/Resources/de.lproj/Localizable.strings
+cCpResource Denver\ Deals/Resources/icons/icon-small.png build/emulator/Denver\ Deals.app/icon-small.png
+cCpResource Denver\ Deals/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape@2x~ipad.png
+cCpResource Denver\ Deals/Resources/splash/Default-Landscape~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape~ipad.png
+cCpResource Denver\ Deals/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait@2x~ipad.png
+cCpResource Denver\ Deals/Resources/icons/icon-small@2x.png build/emulator/Denver\ Deals.app/icon-small@2x.png
+cCpResource Denver\ Deals/Resources/splash/Default-Portrait~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait~ipad.png
+cCpResource Denver\ Deals/Resources/icons/icon-40.png build/emulator/Denver\ Deals.app/icon-40.png
+cCpResource Denver\ Deals/Resources/splash/Default@2x~iphone.png build/emulator/Denver\ Deals.app/Default@2x~iphone.png
+cCpResource Denver\ Deals/Resources/icons/icon-60.png build/emulator/Denver\ Deals.app/icon-60.png
+cCpResource Denver\ Deals/Resources/splash/Default~iphone.png build/emulator/Denver\ Deals.app/Default~iphone.png
+cCpResource Denver\ Deals/Resources/splash/Default-568h@2x~iphone.png build/emulator/Denver\ Deals.app/Default-568h@2x~iphone.png
+cCpResource Denver\ Deals/Resources/icons/icon-50@2x.png build/emulator/Denver\ Deals.app/icon-50@2x.png
+cCpResource Denver\ Deals/Resources/icons/icon-76@2x.png build/emulator/Denver\ Deals.app/icon-76@2x.png
+cCpResource Denver\ Deals/Resources/icons/icon-72@2x.png build/emulator/Denver\ Deals.app/icon-72@2x.png
+cProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.pch Denver\ Deals/Denver\ Deals-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals normal i386
+cGenerateDSYMFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app.dSYM /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals
+cTouch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053478EDD0000000000000198
+t1397198557
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FE70000000000000003B4
+t1394599680
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE705000000000000019E
+t1394599685
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000531FE7060000000000484210
+t1394599686
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000531FE7050000000000098030
+t1394599685
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000531FE7050000000000059340
+t1394599685
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531FE70600000000005B82F0
+t1394599686
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053478EC10000000000446820
+t1397198529
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531FE70600000000000F1A80
+t1394599686
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000531FE706000000000013B8C0
+t1394599686
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FE707000000000088D8C0
+t1394599687
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531FE70700000000001BE790
+t1394599687
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FE70A0000000001F1DE10
+t1394599690
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531FE71000000000002BC360
+t1394599696
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531FE7130000000000002338
+t1394599699
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531FE714000000000008D370
+t1394599700
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531FE7140000000000392E20
+t1394599700
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005378DBBB00000000000141F0
+t1400429499
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531FE7140000000000014A80
+t1394599700
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531FE7140000000000033BA0
+t1394599700
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531FE714000000000001CFB0
+t1394599700
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531FE714000000000001B2B0
+t1394599700
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531FE71400000000000C9570
+t1394599700
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531FE7140000000000063280
+t1394599700
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531FE7140000000000008880
+t1394599700
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531FE7140000000000015080
+t1394599700
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531FE71400000000000230F0
+t1394599700
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531FE714000000000000E380
+t1394599700
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531FE7140000000000089380
+t1394599700
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531FE7140000000000017320
+t1394599700
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531FE7140000000000039CD0
+t1394599700
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531FE714000000000000B0B0
+t1394599700
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531FE7140000000000167E80
+t1394599700
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531FE71400000000000106A0
+t1394599700
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531FE714000000000001CE40
+t1394599700
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531FE71400000000000740C0
+t1394599700
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531FE714000000000006CA60
+t1394599700
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531FE714000000000001BAD0
+t1394599700
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531FE7140000000000084A20
+t1394599700
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053478EC1000000000000514C
+t1397198529
+s20812
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.h
+c00000000538164F900000000000005B9
+t1400988921
+s1465
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.m
+c00000000538164F900000000000013AB
+t1400988921
+s5035
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.h
+c00000000538164F900000000000004D0
+t1400988921
+s1232
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.m
+c00000000538164F9000000000000126B
+t1400988921
+s4715
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.xib
+c00000000538164F90000000000001759
+t1400988921
+s5977
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Info.plist
+c0000000053893C690000000000000A13
+t1401502825
+s2579
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch
+c00000000538164F900000000000003C5
+t1400988921
+s965
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.h
+c000000005382D2CB0000000000000E5F
+t1401082571
+s3679
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+c000000005382D2CB0000000000009ADE
+t1401082571
+s39646
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.h
+c0000000053892851000000000000044D
+t1401497681
+s1101
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+c00000000538928510000000000002666
+t1401497681
+s9830
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/de.lproj/Localizable.strings
+c00000000538164F900000000000004C0
+t1400988921
+s1216
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/en.lproj/Localizable.strings
+c00000000538164F900000000000004AB
+t1400988921
+s1195
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-40.png
+c000000005388EE660000000000000727
+t1401482854
+s1831
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-40@2x.png
+c000000005388EE9300000000000010A0
+t1401482899
+s4256
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-50.png
+c000000005388EEB60000000000000980
+t1401482934
+s2432
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-50@2x.png
+c000000005388EED9000000000000163F
+t1401482969
+s5695
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-60.png
+c000000005388EF010000000000000BD0
+t1401483009
+s3024
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-60@2x.png
+c000000005388EF230000000000001BF5
+t1401483043
+s7157
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-72.png
+c000000005388EF4A0000000000000EC9
+t1401483082
+s3785
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-72@2x.png
+c000000005388EF850000000000002169
+t1401483141
+s8553
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-76.png
+c000000005388EFB70000000000000F9B
+t1401483191
+s3995
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-76@2x.png
+c000000005388EFE20000000000002472
+t1401483234
+s9330
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-small.png
+c000000005388F0A400000000000004BE
+t1401483428
+s1214
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon-small@2x.png
+c000000005388F0BF0000000000000B5E
+t1401483455
+s2910
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon.png
+c000000005388E8380000000000000B42
+t1401481272
+s2882
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/icons/icon@2x.png
+c000000005388E86100000000000019E4
+t1401481313
+s6628
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default-568h@2x~iphone.png
+c000000005389213F000000000000E1B0
+t1401495871
+s57776
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000053891B1A00000000000211DD
+t1401494298
+s135645
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default-Landscape~ipad.png
+c0000000053891B6C00000000000105A6
+t1401494380
+s66982
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000053891DD7000000000002153D
+t1401494999
+s136509
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default-Portrait~ipad.png
+c000000005389201700000000000107AE
+t1401495575
+s67502
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default@2x~iphone.png
+c0000000053892073000000000000DAAD
+t1401495667
+s55981
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Resources/splash/Default~iphone.png
+c000000005389218C0000000000005852
+t1401495948
+s22610
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/main.m
+c00000000538164F9000000000000045C
+t1400988921
+s1116
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/AppDelegate.o
+t1401482302
+s73956
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVInAppBrowser.o
+t1401482302
+s218736
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVSplashScreen.o
+t1401498101
+s74028
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/Denver Deals.LinkFileList
+c00000000538929F200000000000002EC
+t1401498098
+s748
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/MainViewController.o
+t1401482302
+s51540
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/main.o
+t1400989372
+s2964
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Script-304B58A110DAC018002A0835.sh
+c00000000538166B9000000000000002D
+t1400989369
+s45
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app
+t1401502833
+s1020
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app.dSYM
+t1401502821
+s102
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default-568h@2x~iphone.png
+t1401496522
+s57776
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default-Landscape@2x~ipad.png
+t1401496522
+s135645
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default-Landscape~ipad.png
+t1401496522
+s66982
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default-Portrait@2x~ipad.png
+t1401496522
+s136509
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default-Portrait~ipad.png
+t1401496522
+s67502
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default@2x~iphone.png
+t1401496522
+s55981
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Default~iphone.png
+t1401496522
+s22610
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Denver Deals
+t1401498101
+s390476
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Info.plist
+t1401502831
+s1291
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/MainViewController.nib
+t1400989371
+s836
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/PkgInfo
+t2
+s0
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/de.lproj/Localizable.strings
+t1400989369
+s280
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/en.lproj/Localizable.strings
+t1400989369
+s166
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-40.png
+t1401483560
+s1831
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-40@2x.png
+t1401483560
+s4256
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-50.png
+t1401483560
+s2432
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-50@2x.png
+t1401483560
+s5695
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-60.png
+t1401483560
+s3024
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-60@2x.png
+t1401483560
+s7157
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-72.png
+t1401483560
+s3785
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-72@2x.png
+t1401483560
+s8553
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-76.png
+t1401483560
+s3995
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-76@2x.png
+t1401483560
+s9330
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-small.png
+t1401483560
+s1214
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon-small@2x.png
+t1401483560
+s2910
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon.png
+t1401483560
+s2882
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/icon@2x.png
+t1401483560
+s6628
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c000000005388EC3B0000000000000CFB
+t1401482299
+s3323
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c000000005388EC3B00000000000008BA
+t1401482299
+s2234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c000000005388EC3B00000000000004E2
+t1401482299
+s1250
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c000000005388EC3B0000000000000503
+t1401482299
+s1283
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c000000005388EC3B00000000000007E6
+t1401482299
+s2022
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+c000000005388EC3B00000000000003DA
+t1401482299
+s986
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c000000005388EC3B0000000000000892
+t1401482299
+s2194
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c000000005388EC3B0000000000000C13
+t1401482299
+s3091
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c000000005388EC3B0000000000000408
+t1401482299
+s1032
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+c000000005388EC3B0000000000000421
+t1401482299
+s1057
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c000000005388EC3B0000000000000ACC
+t1401482299
+s2764
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+c000000005388EC3B00000000000005A2
+t1401482299
+s1442
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c000000005388EC3B00000000000004B4
+t1401482299
+s1204
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005388EC3B00000000000003A0
+t1401482299
+s928
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a
+c000000005388EC3C00000000000D36B0
+t1401482300
+s865968
+
+N/usr/lib/libSystem.B.dylib
+c000000005378DBAA000000000000E6D0
+t1400429482
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000530015670000000000012A00
+t1392514407
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000053001541000000000002E320
+t1392514369
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000530015530000000000021860
+t1392514387
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053001566000000000001B620
+t1392514406
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005300156600000000000BD920
+t1392514406
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005378DBBB00000000000141F0
+t1400429499
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000053001566000000000000A120
+t1392514406
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053122EFC000000000001D550
+t1393700604
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000530015650000000000014EE0
+t1392514405
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000530015690000000000010380
+t1392514409
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000053001569000000000000C4C0
+t1392514409
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005300156700000000000357A0
+t1392514407
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000053001567000000000000C070
+t1392514407
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053122ED70000000000168D00
+t1393700567
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005378DBB80000000000010630
+t1400429496
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053122EFC000000000001DF10
+t1393700604
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000530015530000000000075B00
+t1392514387
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005378DBAA000000000007CD60
+t1400429482
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005300155300000000000766C0
+t1392514387
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053122EFC0000000000044DC0
+t1393700604
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000530015530000000000021FA0
+t1392514387
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053122EFC000000000002D920
+t1393700604
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000053001567000000000001E570
+t1392514407
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005378DBB1000000000000CC70
+t1400429489
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000053001560000000000000C3F0
+t1392514400
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005300156700000000000199F0
+t1392514407
+s104944
+
+N/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver Deals-Prefix.pch.pch
+t1400989372
+s5376580
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7bdd1eef7339b941^ab081fef7339b941^---0#1#1#--18"Check dependencies36"58789F94-DD54-4869-9C86-8B096CA8239D-
+
+CCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423175102.756326
+e423175102.870561
+r1
+xCompileC
+xbuild/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/AppDelegate.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/AppDelegate.m230"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.o [1mDenver\ Deals/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1b7c1be2339b941^59dddebe2339b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Classes/AppDelegate.m0000000000000000^3985"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.o [1mDenver\ Deals/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/AppDelegate.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/AppDelegate.o36"95AA1DC3-A6C8-4762-9C9B-6B7B8F7514ED-
+b474520A5-479E-43A7-A54A-F244A374BA8D
+
+CCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423175102.756738
+e423175102.986018
+r1
+xCompileC
+xbuild/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVInAppBrowser.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+o[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:225:34: [0m[0;1;35mwarning: [0m[1m
+o      'presentModalViewController:animated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o            [self.viewController presentModalViewController:nav animated:YES];
+o[0;1;32m                                 ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: [0m[0;1;30mnote: [0m
+o      method 'presentModalViewController:animated:' declared here[0m
+o- (void)presentModalViewController:(UIViewController *)modalViewControll...
+o[0;1;32m^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:491:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.webView.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:504:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.spinner.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:532:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.toolbar.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:551:23: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.addressLabel.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                      ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:558:27: [0m[0;1;35mwarning: [0m[1m
+o      'minimumFontSize' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o        self.addressLabel.minimumFontSize = 10.000;
+o[0;1;32m                          ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:45:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: [0m[0;1;30mnote: [0m
+o      'minimumFontSize' declared here[0m
+o@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0)...
+o[0;1;32m                             ^
+o[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:749:42: [0m[0;1;35mwarning: [0m[1m
+o      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o            [[self parentViewController] dismissModalViewControllerAnima...
+o[0;1;32m                                         ^
+o[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m
+o      method 'dismissModalViewControllerAnimated:' declared here[0m
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...
+o[0;1;32m^
+o[0m7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m270"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.o [1mDenver\ Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd9d0c1be2339b941^596bfcbe2339b941^-11601"[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:225:34: [0m[0;1;35mwarning: [0m[1m      'presentModalViewController:animated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m            [self.viewController presentModalViewController:nav animated:YES];[0;1;32m                                 ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: [0m[0;1;30mnote: [0m      method 'presentModalViewController:animated:' declared here[0m- (void)presentModalViewController:(UIViewController *)modalViewControll...[0;1;32m^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:491:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.webView.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:504:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.spinner.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:532:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.toolbar.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:551:23: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.addressLabel.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                      ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:558:27: [0m[0;1;35mwarning: [0m[1m      'minimumFontSize' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m        self.addressLabel.minimumFontSize = 10.000;[0;1;32m                          ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:45:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: [0m[0;1;30mnote: [0m      'minimumFontSize' declared here[0m@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0)...[0;1;32m                             ^[0m[1m/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:749:42: [0m[0;1;35mwarning: [0m[1m      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m            [[self parentViewController] dismissModalViewControllerAnima...[0;1;32m                                         ^[0mIn file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m      method 'dismissModalViewControllerAnimated:' declared here[0m- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...[0;1;32m^[0m7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^224#33#224#33#8710#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@30"'contentStretch' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^490#17#490#17#20973#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@30"'contentStretch' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^503#17#503#17#21664#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@30"'contentStretch' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^531#17#531#17#23245#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@30"'contentStretch' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^550#22#550#22#24405#0#12"Deprecations--2@60"'minimumFontSize' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@31"'minimumFontSize' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@182"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h0000000000000000^47#29#47#29#2750#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^557#26#557#26#24754#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-423175102#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-423175102#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^748#41#748#41#31897#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^4073"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.o [1mDenver\ Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVInAppBrowser.o36"E9830DCF-A909-4C0E-B85F-9BA32433E61B-
+b474520A5-479E-43A7-A54A-F244A374BA8D
+
+CCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190900.859203
+e423190901.070161
+r1
+xCompileC
+xbuild/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVSplashScreen.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m270"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.o [1mDenver\ Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f11dc746139b941^9df511756139b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m0000000000000000^4073"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.o [1mDenver\ Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/CDVSplashScreen.o36"3C375463-7C93-4C6F-AEA8-FEFA997A0747-
+bFBD81960-C26B-4A60-A91F-2D340A3609A5
+
+CCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423175102.756473
+e423175102.859581
+r1
+xCompileC
+xbuild/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/MainViewController.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.m244"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.o [1mDenver\ Deals/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraebbc1be2339b941^bb0fdcbe2339b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Classes/MainViewController.m0000000000000000^4027"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.o [1mDenver\ Deals/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/MainViewController.o36"077DB0F0-5BC1-47D2-8FF5-1B122133E368-
+b474520A5-479E-43A7-A54A-F244A374BA8D
+
+CCompileC build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.o /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422682172.204802
+e422682172.441246
+r1
+xCompileC
+xbuild/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/main.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/main.m208"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.o [1mDenver\ Deals/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1686343c9e31b941^cbf7703c9e31b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/main.m0000000000000000^4059"[1mCompileC[0m build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.o [1mDenver\ Deals/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/main.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/main.o36"A3EE4C4E-9CCE-4DE2-8903-EDA7FC5839C3-
+b111652C1-BACE-476C-88D5-F0FFE4E1E726
+
+CCompileXIB /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.xib
+s422682169.980770
+e422682171.483230
+r1
+xCompileXIB
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.xib
+o2014-05-24 21:42:50.998 Interface Builder Cocoa Touch Tool[9885:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Classes/MainViewController.xib71"[1mCompileXIB[0m [1mDenver\ Deals/Classes/MainViewController.xib[0m2d3ffc399e31b941^d0b57b3b9e31b941^-237"2014-05-24 21:42:50.998 Interface Builder Cocoa Touch Tool[9885:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Classes/MainViewController.xib0000000000000000^1124"[1mCompileXIB[0m [1mDenver\ Deals/Classes/MainViewController.xib[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/MainViewController.nib /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Classes/MainViewController.xib36"A7CA61CF-4D39-4559-B690-8848B76F7A15-
+b111652C1-BACE-476C-88D5-F0FFE4E1E726
+
+CCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/de.lproj/Localizable.strings Denver\ Deals/Resources/de.lproj/Localizable.strings
+s422682169.982028
+e422682169.985906
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/de.lproj/Localizable.strings
+xDenver Deals/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Denver Deals/Resources/de.lproj/Localizable.strings138"[1mCopyStringsFile[0m build/emulator/Denver\ Deals.app/de.lproj/Localizable.strings Denver\ Deals/Resources/de.lproj/Localizable.stringsa67dfb399e31b941^9336fd399e31b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Resources/de.lproj/Localizable.strings0000000000000000^925"[1mCopyStringsFile[0m build/emulator/Denver\ Deals.app/de.lproj/Localizable.strings Denver\ Deals/Resources/de.lproj/Localizable.strings    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/de.lproj -- Denver\ Deals/Resources/de.lproj/Localizable.strings36"65BF0871-67A9-4ED6-BE5C-17CD854141D1-
+b111652C1-BACE-476C-88D5-F0FFE4E1E726
+
+CCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/en.lproj/Localizable.strings Denver\ Deals/Resources/en.lproj/Localizable.strings
+s422682169.979383
+e422682169.984211
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/en.lproj/Localizable.strings
+xDenver Deals/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Denver Deals/Resources/en.lproj/Localizable.strings138"[1mCopyStringsFile[0m build/emulator/Denver\ Deals.app/en.lproj/Localizable.strings Denver\ Deals/Resources/en.lproj/Localizable.strings49d5fa399e31b941^1e88fc399e31b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Resources/en.lproj/Localizable.strings0000000000000000^925"[1mCopyStringsFile[0m build/emulator/Denver\ Deals.app/en.lproj/Localizable.strings Denver\ Deals/Resources/en.lproj/Localizable.strings    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/en.lproj -- Denver\ Deals/Resources/en.lproj/Localizable.strings36"B4A93952-AE54-4ED7-B048-B18F1AF8C188-
+b111652C1-BACE-476C-88D5-F0FFE4E1E726
+
+CCpResource Denver\ Deals/Resources/icons/icon-40.png build/emulator/Denver\ Deals.app/icon-40.png
+s423176360.646687
+e423176360.648233
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-40.png
+xbuild/emulator/Denver Deals.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon-40.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-40.png build/emulator/Denver\ Deals.app/icon-40.pngf8aaa5a82839b941^27f9a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-40.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-40.png build/emulator/Denver\ Deals.app/icon-40.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-40.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"A483607C-0661-44C2-B4CF-092E2DA1E1A6-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-40@2x.png build/emulator/Denver\ Deals.app/icon-40@2x.png
+s423176360.642599
+e423176360.644655
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-40@2x.png
+xbuild/emulator/Denver Deals.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-40@2x.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-40@2x.png build/emulator/Denver\ Deals.app/icon-40@2x.pngde8ea4a82839b941^8812a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-40@2x.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-40@2x.png build/emulator/Denver\ Deals.app/icon-40@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-40@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"D36B5991-AD76-4958-A182-13331F1539AE-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-50.png build/emulator/Denver\ Deals.app/icon-50.png
+s423176360.644603
+e423176360.646405
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-50.png
+xbuild/emulator/Denver Deals.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon-50.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-50.png build/emulator/Denver\ Deals.app/icon-50.pngfa2aa5a82839b941^2d78a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-50.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-50.png build/emulator/Denver\ Deals.app/icon-50.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-50.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"AE80DCE2-0D60-4ED4-94F9-F5E77A5ECCEB-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-50@2x.png build/emulator/Denver\ Deals.app/icon-50@2x.png
+s423176360.647650
+e423176360.649176
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-50@2x.png
+xbuild/emulator/Denver Deals.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-50@2x.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-50@2x.png build/emulator/Denver\ Deals.app/icon-50@2x.png44dfa5a82839b941^1f31a6a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-50@2x.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-50@2x.png build/emulator/Denver\ Deals.app/icon-50@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-50@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"3F721B78-66D3-469F-8208-7AF9C1293C22-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-60.png build/emulator/Denver\ Deals.app/icon-60.png
+s423176360.647097
+e423176360.648425
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-60.png
+xbuild/emulator/Denver Deals.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon-60.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-60.png build/emulator/Denver\ Deals.app/icon-60.pngb6bda5a82839b941^ee09a6a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-60.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-60.png build/emulator/Denver\ Deals.app/icon-60.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-60.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"1994FAF1-9B90-4CD7-B755-3E207A0034DE-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-60@2x.png build/emulator/Denver\ Deals.app/icon-60@2x.png
+s423176360.644023
+e423176360.645619
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-60@2x.png
+xbuild/emulator/Denver Deals.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-60@2x.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-60@2x.png build/emulator/Denver\ Deals.app/icon-60@2x.png13f3a4a82839b941^2254a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-60@2x.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-60@2x.png build/emulator/Denver\ Deals.app/icon-60@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-60@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"0A4991BF-B93F-4828-93EB-7731CF13D95C-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-72.png build/emulator/Denver\ Deals.app/icon-72.png
+s423176360.642761
+e423176360.644517
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-72.png
+xbuild/emulator/Denver Deals.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon-72.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-72.png build/emulator/Denver\ Deals.app/icon-72.png9d9da4a82839b941^ea07a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-72.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-72.png build/emulator/Denver\ Deals.app/icon-72.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-72.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"6D7899A9-8799-44E3-8B8A-E8D5320DF6C6-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-72@2x.png build/emulator/Denver\ Deals.app/icon-72@2x.png
+s423176360.648193
+e423176360.649631
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-72@2x.png
+xbuild/emulator/Denver Deals.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-72@2x.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-72@2x.png build/emulator/Denver\ Deals.app/icon-72@2x.png0708a6a82839b941^124fa6a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-72@2x.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-72@2x.png build/emulator/Denver\ Deals.app/icon-72@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-72@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"70CA9CE9-7D03-4B5A-BCDC-517EA93FF4E0-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-76.png build/emulator/Denver\ Deals.app/icon-76.png
+s423176360.642490
+e423176360.644722
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-76.png
+xbuild/emulator/Denver Deals.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon-76.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-76.png build/emulator/Denver\ Deals.app/icon-76.png6d8da4a82839b941^1630a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-76.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-76.png build/emulator/Denver\ Deals.app/icon-76.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-76.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"3B7C7B4E-D7C8-471D-A0EA-F1B01BAD8FAB-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-76@2x.png build/emulator/Denver\ Deals.app/icon-76@2x.png
+s423176360.647826
+e423176360.649427
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-76@2x.png
+xbuild/emulator/Denver Deals.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-76@2x.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-76@2x.png build/emulator/Denver\ Deals.app/icon-76@2x.pnga1f8a5a82839b941^d541a6a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-76@2x.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-76@2x.png build/emulator/Denver\ Deals.app/icon-76@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-76@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"283B671C-AAD2-4750-966D-7FCF7CA278B6-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-small.png build/emulator/Denver\ Deals.app/icon-small.png
+s423176360.644888
+e423176360.646370
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-small.png
+xbuild/emulator/Denver Deals.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/Denver Deals.app/icon-small.png111"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-small.png build/emulator/Denver\ Deals.app/icon-small.png6631a5a82839b941^828ba5a82839b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-small.png0000000000000000^816"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-small.png build/emulator/Denver\ Deals.app/icon-small.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-small.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"AA968875-7009-4922-9EAD-37BE44CAC21C-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon-small@2x.png build/emulator/Denver\ Deals.app/icon-small@2x.png
+s423176360.646182
+e423176360.647926
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon-small@2x.png
+xbuild/emulator/Denver Deals.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/Denver Deals.app/icon-small@2x.png117"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-small@2x.png build/emulator/Denver\ Deals.app/icon-small@2x.png7e90a5a82839b941^11dfa5a82839b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon-small@2x.png0000000000000000^825"[1mCpResource[0m Denver\ Deals/Resources/icons/icon-small@2x.png build/emulator/Denver\ Deals.app/icon-small@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon-small@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"57ACCC5C-23A5-43DE-BBA1-663AFE85666B-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon.png build/emulator/Denver\ Deals.app/icon.png
+s423176360.642892
+e423176360.644698
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon.png
+xbuild/emulator/Denver Deals.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/Denver Deals.app/icon.png99"[1mCpResource[0m Denver\ Deals/Resources/icons/icon.png build/emulator/Denver\ Deals.app/icon.png71aba4a82839b941^a81ea5a82839b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon.png0000000000000000^798"[1mCpResource[0m Denver\ Deals/Resources/icons/icon.png build/emulator/Denver\ Deals.app/icon.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"C382669F-C2BA-4073-A63F-B553BC1ACB77-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/icons/icon@2x.png build/emulator/Denver\ Deals.app/icon@2x.png
+s423176360.643293
+e423176360.645259
+r1
+xCpResource
+xDenver Deals/Resources/icons/icon@2x.png
+xbuild/emulator/Denver Deals.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/Denver Deals.app/icon@2x.png105"[1mCpResource[0m Denver\ Deals/Resources/icons/icon@2x.png build/emulator/Denver\ Deals.app/icon@2x.png82caa4a82839b941^0b46a5a82839b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/icon@2x.png0000000000000000^807"[1mCpResource[0m Denver\ Deals/Resources/icons/icon@2x.png build/emulator/Denver\ Deals.app/icon@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/icons/icon@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"FD022F56-639E-4180-AF67-5EC2D4CCCE1D-
+bFD00E7E1-DEA1-4FC4-82B3-41B34069C7FD
+
+CCpResource Denver\ Deals/Resources/splash/Default-568h@2x~iphone.png build/emulator/Denver\ Deals.app/Default-568h@2x~iphone.png
+s423189322.824848
+e423189322.828334
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/Denver Deals.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/Denver Deals.app/Default-568h@2x~iphone.png136"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-568h@2x~iphone.png build/emulator/Denver\ Deals.app/Default-568h@2x~iphone.pngb83bd34a5b39b941^b614d44a5b39b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default-568h@2x~iphone.png0000000000000000^854"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-568h@2x~iphone.png build/emulator/Denver\ Deals.app/Default-568h@2x~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default-568h@2x~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"44C89D08-C150-46E1-9DB1-BABC01BEB22D-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape@2x~ipad.png
+s423189322.823313
+e423189322.827514
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/Denver Deals.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/emulator/Denver Deals.app/Default-Landscape@2x~ipad.png142"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape@2x~ipad.png12ded24a5b39b941^f5d7d34a5b39b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default-Landscape@2x~ipad.png0000000000000000^863"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape@2x~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default-Landscape@2x~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"8AC26A5B-9BD8-4C7E-9397-3988F67D1363-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default-Landscape~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape~ipad.png
+s423189322.823423
+e423189322.827528
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/Denver Deals.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/Denver Deals.app/Default-Landscape~ipad.png136"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Landscape~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape~ipad.png0adcd24a5b39b941^90dbd34a5b39b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default-Landscape~ipad.png0000000000000000^854"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Landscape~ipad.png build/emulator/Denver\ Deals.app/Default-Landscape~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default-Landscape~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"235C95CD-0F8E-4F33-A9A2-04C702C11128-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait@2x~ipad.png
+s423189322.823491
+e423189322.827375
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/Denver Deals.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/emulator/Denver Deals.app/Default-Portrait@2x~ipad.png140"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait@2x~ipad.png21e6d24a5b39b941^d8d2d34a5b39b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default-Portrait@2x~ipad.png0000000000000000^860"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait@2x~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default-Portrait@2x~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"EC02DB81-2030-4AB8-BC7C-2F3DF42BAEB7-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default-Portrait~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait~ipad.png
+s423189322.823772
+e423189322.827944
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/Denver Deals.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/Denver Deals.app/Default-Portrait~ipad.png134"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Portrait~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait~ipad.png5ef7d24a5b39b941^b3ead34a5b39b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default-Portrait~ipad.png0000000000000000^851"[1mCpResource[0m Denver\ Deals/Resources/splash/Default-Portrait~ipad.png build/emulator/Denver\ Deals.app/Default-Portrait~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default-Portrait~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"BFF581AE-5411-4286-9D39-69A0F75F84FA-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default@2x~iphone.png build/emulator/Denver\ Deals.app/Default@2x~iphone.png
+s423189322.824329
+e423189322.828055
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/Denver Deals.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/Denver Deals.app/Default@2x~iphone.png126"[1mCpResource[0m Denver\ Deals/Resources/splash/Default@2x~iphone.png build/emulator/Denver\ Deals.app/Default@2x~iphone.png7a17d34a5b39b941^cafcd34a5b39b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default@2x~iphone.png0000000000000000^839"[1mCpResource[0m Denver\ Deals/Resources/splash/Default@2x~iphone.png build/emulator/Denver\ Deals.app/Default@2x~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default@2x~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"C6140969-B2AA-45BC-891E-F162F3BB1967-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CCpResource Denver\ Deals/Resources/splash/Default~iphone.png build/emulator/Denver\ Deals.app/Default~iphone.png
+s423189322.824835
+e423189322.828324
+r1
+xCpResource
+xDenver Deals/Resources/splash/Default~iphone.png
+xbuild/emulator/Denver Deals.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/Denver Deals.app/Default~iphone.png120"[1mCpResource[0m Denver\ Deals/Resources/splash/Default~iphone.png build/emulator/Denver\ Deals.app/Default~iphone.pngd53cd34a5b39b941^990fd44a5b39b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app/Default~iphone.png0000000000000000^830"[1mCpResource[0m Denver\ Deals/Resources/splash/Default~iphone.png build/emulator/Denver\ Deals.app/Default~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Resources/splash/Default~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"B544BC21-FF9C-48F7-96E5-CC065A2E8A80-
+bE9719154-9FDD-4947-AFCC-97392259DBC6
+
+CGenerateDSYMFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app.dSYM /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals
+s423195633.260520
+e423195633.305509
+r1
+xGenerateDSYMFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app.dSYM
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Denver Deals
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generate /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app.dSYM117"[1mGenerateDSYMFile[0m [1mbuild/emulator/Denver\ Deals.app.dSYM[0m build/emulator/Denver\ Deals.app/Denver\ Deals47c642f17339b941^4c364ef17339b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver%20Deals.app.dSYM/0000000000000000^820"[1mGenerateDSYMFile[0m [1mbuild/emulator/Denver\ Deals.app.dSYM[0m build/emulator/Denver\ Deals.app/Denver\ Deals    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app.dSYM36"71F60520-ABD5-4A0F-B831-AAC2B47B6409-
+b6B20D3C6-0980-4758-9F24-041E2E5D3142
+
+CLd /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals normal i386
+s423190901.079780
+e423190901.574861
+r1
+xLd
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Denver Deals
+xnormal
+xi386
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/Denver Deals.LinkFileList
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/main.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/AppDelegate.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/MainViewController.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVInAppBrowser.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Objects-normal/i386/CDVSplashScreen.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Link /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Denver Deals69"[1mLd[0m build/emulator/Denver\ Deals.app/Denver\ Deals normal i386238314756139b941^9d2a93756139b941^---0#0#1#--1895"[1mLd[0m build/emulator/Denver\ Deals.app/Denver\ Deals normal i386    cd /Users/MacBookRetina/denver_deals/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -filelist /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/Denver\ Deals.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Objects-normal/i386/Denver\ Deals_dependency_info.dat -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Denver\ Deals36"1F4136A8-B1FC-4F8E-916F-0D78035DAF2B-
+bFBD81960-C26B-4A60-A91F-2D340A3609A5
+
+CPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Script-304B58A110DAC018002A0835.sh
+s423195631.124970
+e423195633.252400
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver Deals.build/Debug-iphonesimulator/Denver Deals.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m2.110s
+ouser	0m0.793s
+osys	0m1.308s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'152"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Script-304B58A110DAC018002A0835.sh165020ef7339b941^3ca040f17339b941^-42"real	0m2.110suser	0m0.793ssys	0m1.308s3(21%IDEActivityLogMessage2@14"real	0m2.110s-423195633#1#14#-0#-----2@14"user	0m0.793s-423195633#15#14#-0#-----2@13"sys	0m1.308s-423195633#29#13#-0#-----0#0#1#--378"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Script-304B58A110DAC018002A0835.sh    cd /Users/MacBookRetina/denver_deals/platforms/ios    /bin/sh -c \"/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Script-304B58A110DAC018002A0835.sh\"36"DAB20230-F73D-4D3B-A09B-51294215AAC2-
+b6B20D3C6-0980-4758-9F24-041E2E5D3142
+
+CProcessInfoPlistFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Info.plist /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Denver\ Deals-Info.plist
+s423195631.121873
+e423195631.124068
+r1
+xProcessInfoPlistFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app/Info.plist
+x/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Process /Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Info.plist119"[1mProcessInfoPlistFile[0m build/emulator/Denver\ Deals.app/Info.plist [1mDenver\ Deals/Denver\ Deals-Info.plist[0m41471fef7339b941^72c31fef7339b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Denver%20Deals-Info.plist0000000000000000^912"[1mProcessInfoPlistFile[0m build/emulator/Denver\ Deals.app/Info.plist [1mDenver\ Deals/Denver\ Deals-Info.plist[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-infoPlistUtility /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Denver\ Deals-Info.plist -genpkginfo /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app/Info.plist36"2F9055C9-CE3F-489A-A72C-74261FB8D3DC-
+b6B20D3C6-0980-4758-9F24-041E2E5D3142
+
+CProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.pch Denver\ Deals/Denver\ Deals-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422682171.484914
+e422682172.203947
+r1
+xProcessPCH
+x/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver Deals-Prefix.pch.pch
+xDenver Deals/Denver Deals-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/Denver Deals/Denver Deals-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Denver Deals/Denver Deals-Prefix.pch322"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.pch Denver\ Deals/Denver\ Deals-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler813f7c3b9e31b941^5935343c9e31b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/Denver%20Deals/Denver%20Deals-Prefix.pch0000000000000000^4154"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.pch Denver\ Deals/Denver\ Deals-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/Denver\ Deals-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/Denver\ Deals.build/Debug-iphonesimulator/Denver\ Deals.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator --serialize-diagnostics /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.d -c /Users/MacBookRetina/denver_deals/platforms/ios/Denver\ Deals/Denver\ Deals-Prefix.pch -o /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Denver\ Deals-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/Denver\ Deals-Prefix.pch.pch36"94229108-44C1-4168-A030-2E3E64371B70-
+b111652C1-BACE-476C-88D5-F0FFE4E1E726
+
+CTouch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app
+s423195633.306323
+e423195633.309935
+r1
+xTouch
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver Deals.app46"[1mTouch[0m build/emulator/Denver\ Deals.appbc794ef17339b941^e2584ff17339b941^---0#0#1#--568"[1mTouch[0m build/emulator/Denver\ Deals.app    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /usr/bin/touch -c /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/Denver\ Deals.app36"DE709FF3-BBC6-47EE-9C23-E1705749FD35-
+b6B20D3C6-0980-4758-9F24-041E2E5D3142
+

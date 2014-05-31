@@ -1,0 +1,1182 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+cCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+cCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+cCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+cCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+cCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+cCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+cCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+cCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+cCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+cCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+cProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+cTouch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053478EDD0000000000000198
+t1397198557
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FE70000000000000003B4
+t1394599680
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE705000000000000019E
+t1394599685
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000531FE7060000000000484210
+t1394599686
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000531FE7050000000000098030
+t1394599685
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000531FE7050000000000059340
+t1394599685
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531FE70600000000005B82F0
+t1394599686
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053478EC10000000000446820
+t1397198529
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531FE70600000000000F1A80
+t1394599686
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000531FE706000000000013B8C0
+t1394599686
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FE707000000000088D8C0
+t1394599687
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531FE70700000000001BE790
+t1394599687
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FE70A0000000001F1DE10
+t1394599690
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531FE71000000000002BC360
+t1394599696
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531FE7130000000000002338
+t1394599699
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531FE714000000000008D370
+t1394599700
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531FE7140000000000392E20
+t1394599700
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005378DBBB00000000000141F0
+t1400429499
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531FE7140000000000014A80
+t1394599700
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531FE7140000000000033BA0
+t1394599700
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531FE714000000000001CFB0
+t1394599700
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531FE714000000000001B2B0
+t1394599700
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531FE71400000000000C9570
+t1394599700
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531FE7140000000000063280
+t1394599700
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531FE7140000000000008880
+t1394599700
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531FE7140000000000015080
+t1394599700
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531FE71400000000000230F0
+t1394599700
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531FE714000000000000E380
+t1394599700
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531FE7140000000000089380
+t1394599700
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531FE7140000000000017320
+t1394599700
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531FE7140000000000039CD0
+t1394599700
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531FE714000000000000B0B0
+t1394599700
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531FE7140000000000167E80
+t1394599700
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531FE71400000000000106A0
+t1394599700
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531FE714000000000001CE40
+t1394599700
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531FE71400000000000740C0
+t1394599700
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531FE714000000000006CA60
+t1394599700
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531FE714000000000001BAD0
+t1394599700
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531FE7140000000000084A20
+t1394599700
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053478EC1000000000000514C
+t1397198529
+s20812
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.h
+c00000000538164F900000000000005B9
+t1400988921
+s1465
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c00000000538164F900000000000013AB
+t1400988921
+s5035
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.h
+c00000000538164F900000000000004D0
+t1400988921
+s1232
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m
+c00000000538164F9000000000000126B
+t1400988921
+s4715
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c00000000538164F90000000000001759
+t1400988921
+s5977
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c00000000538166590000000000000A13
+t1400989273
+s2579
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c00000000538164F900000000000003C5
+t1400988921
+s965
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c00000000538164F900000000000004C0
+t1400988921
+s1216
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c00000000538164F900000000000004AB
+t1400988921
+s1195
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-40.png
+c00000000538164F90000000000000FF2
+t1400988921
+s4082
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png
+c00000000538164F90000000000001CF3
+t1400988921
+s7411
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-50.png
+c00000000538164F9000000000000130A
+t1400988921
+s4874
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png
+c00000000538164F9000000000000258B
+t1400988921
+s9611
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-60.png
+c00000000538164F900000000000016B3
+t1400988921
+s5811
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png
+c00000000538164F90000000000002E94
+t1400988921
+s11924
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c00000000538164F90000000000001350
+t1400988921
+s4944
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c00000000538164F90000000000002DBA
+t1400988921
+s11706
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-76.png
+c00000000538164F90000000000001B71
+t1400988921
+s7025
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png
+c00000000538164F90000000000003B9E
+t1400988921
+s15262
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-small.png
+c00000000538164F90000000000000CDE
+t1400988921
+s3294
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png
+c00000000538164F900000000000015E8
+t1400988921
+s5608
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon.png
+c00000000538164F90000000000000F3E
+t1400988921
+s3902
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c00000000538164F90000000000001EBD
+t1400988921
+s7869
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c00000000538164F900000000000085B1
+t1400988921
+s34225
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000538164F90000000000033D0A
+t1400988921
+s212234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c00000000538164F900000000000166A2
+t1400988921
+s91810
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000538164F90000000000033F7C
+t1400988921
+s212860
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c00000000538164F90000000000016641
+t1400988921
+s91713
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c00000000538164F90000000000007323
+t1400988921
+s29475
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c00000000538164F9000000000000289A
+t1400988921
+s10394
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m
+c00000000538164F9000000000000045C
+t1400988921
+s1116
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1400988940
+s73956
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000005381650300000000000001B0
+t1400988931
+s432
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+t1400988940
+s51536
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1400988940
+s2964
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c0000000053816503000000000000002D
+t1400988931
+s45
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app
+t1400989279
+s1020
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM
+t1400989273
+s102
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+t1400988932
+s34225
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1400988932
+s212234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+t1400988932
+s91810
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1400988932
+s212860
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+t1400988932
+s91713
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png
+t1400988932
+s29475
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png
+t1400988932
+s10394
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+t1400988940
+s271916
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+t1400989279
+s1287
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
+t1400988939
+s836
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+t1400988932
+s280
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+t1400988932
+s166
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-40.png
+t1400988932
+s4082
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
+t1400988932
+s7411
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-50.png
+t1400988932
+s4874
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
+t1400988932
+s9611
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-60.png
+t1400988932
+s5811
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png
+t1400988932
+s11924
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
+t1400988932
+s4944
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
+t1400988932
+s11706
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
+t1400988932
+s7025
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
+t1400988932
+s15262
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-small.png
+t1400988932
+s3294
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png
+t1400988932
+s5608
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon.png
+t1400988932
+s3902
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png
+t1400988932
+s7869
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000538165020000000000000CFB
+t1400988930
+s3323
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c000000005381650200000000000008BA
+t1400988930
+s2234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c000000005381650200000000000004E2
+t1400988930
+s1250
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000538165020000000000000503
+t1400988930
+s1283
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c000000005381650200000000000007E6
+t1400988930
+s2022
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000538165020000000000000892
+t1400988930
+s2194
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000538165020000000000000C13
+t1400988930
+s3091
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000538165020000000000000408
+t1400988930
+s1032
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000538165020000000000000ACC
+t1400988930
+s2764
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c000000005381650200000000000004B4
+t1400988930
+s1204
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005381650200000000000003A0
+t1400988930
+s928
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a
+c000000005381650300000000000D36B0
+t1400988931
+s865968
+
+N/usr/lib/libSystem.B.dylib
+c000000005378DBAA000000000000E6D0
+t1400429482
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000530015670000000000012A00
+t1392514407
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000053001541000000000002E320
+t1392514369
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000530015530000000000021860
+t1392514387
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053001566000000000001B620
+t1392514406
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005300156600000000000BD920
+t1392514406
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005378DBBB00000000000141F0
+t1400429499
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000053001566000000000000A120
+t1392514406
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053122EFC000000000001D550
+t1393700604
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000530015650000000000014EE0
+t1392514405
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000530015690000000000010380
+t1392514409
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000053001569000000000000C4C0
+t1392514409
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005300156700000000000357A0
+t1392514407
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000053001567000000000000C070
+t1392514407
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053122ED70000000000168D00
+t1393700567
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005378DBB80000000000010630
+t1400429496
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053122EFC000000000001DF10
+t1393700604
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000530015530000000000075B00
+t1392514387
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005378DBAA000000000007CD60
+t1400429482
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005300155300000000000766C0
+t1392514387
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053122EFC0000000000044DC0
+t1393700604
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000530015530000000000021FA0
+t1392514387
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053122EFC000000000002D920
+t1393700604
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000053001567000000000001E570
+t1392514407
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005378DBB1000000000000CC70
+t1400429489
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000053001560000000000000C3F0
+t1392514400
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005300156700000000000199F0
+t1392514407
+s104944
+
+N/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch
+t1400988940
+s5376488
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies61c323df9d31b941^f0fb23df9d31b941^---0#1#1#--18"Check dependencies36"9373C6FD-7857-4D29-8D92-0593863A1AD7-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422681740.621353
+e422681740.700137
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m221"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd32d9f8c9c31b941^5c58b38c9c31b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^4033"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"EA1E0A5F-5700-4D74-9147-959A49C8DD14-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422681740.621522
+e422681740.688753
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m235"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler92409f8c9c31b941^8352b08c9c31b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^4075"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o36"5C8B0742-DF47-488A-AC98-3DE39DF3F471-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422681740.621109
+e422681740.647694
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m199"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c269f8c9c31b941^cccfa58c9c31b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m0000000000000000^3975"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/main.m -o /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"6A1BAA57-618F-4DF4-9909-B4473DC26F15-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCompileXIB /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s422681732.142471
+e422681740.137400
+r1
+xCompileXIB
+x/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib
+o2014-05-24 21:35:39.552 Interface Builder Cocoa Touch Tool[8964:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib68"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m8d9924849c31b941^492e238c9c31b941^-237"2014-05-24 21:35:39.552 Interface Builder Cocoa Touch Tool[8964:303] CFPreferences: user home directory at file:///Users/MacBookRetina/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^1115"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Classes/MainViewController.xib36"96EAA601-6271-42F1-8642-80944644C33D-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s422681732.143686
+e422681732.147027
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings250225849c31b941^8ab025849c31b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^913"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"E531D1E7-0139-42E2-A2B2-1F1BEDAFA977-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCopyStringsFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s422681732.142166
+e422681732.145243
+r1
+xCopyStringsFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings1e8824849c31b941^331a25849c31b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^913"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"5CE2DE51-FD9B-41D3-BEAB-BEF960AAD51F-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+s422681732.147266
+e422681732.148966
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40.png
+xbuild/emulator/HelloWorld.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-40.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png79cb25849c31b941^c32e26849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-40.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-40.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"EB095857-6971-4D48-8483-C3B7BEBB6501-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+s422681732.141163
+e422681732.142877
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloWorld.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-40@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png443224849c31b941^79ad24849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"2D4DAB7B-CD71-4B6B-8516-4E0747F4508E-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+s422681732.142779
+e422681732.144958
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50.png
+xbuild/emulator/HelloWorld.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-50.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.pngafb424849c31b941^414925849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-50.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-50.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"D36A43D3-ACF9-4C9C-B022-ECBCA470B4D8-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+s422681732.151611
+e422681732.154314
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloWorld.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-50@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png752027849c31b941^7b8327849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"92DEDDEF-35B1-4263-BE5A-83058E1B815C-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+s422681732.148361
+e422681732.150865
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60.png
+xbuild/emulator/HelloWorld.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-60.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.pngc71226849c31b941^f8c426849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-60.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-60.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"4D75820F-E1CD-4AFA-9865-28F3358CD100-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+s422681732.143282
+e422681732.145052
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloWorld.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-60@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png82c624849c31b941^7d5a25849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"81A20517-7F74-4BFB-BFE3-DF042276BC89-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+s422681732.141333
+e422681732.143210
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72.png
+xbuild/emulator/HelloWorld.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-72.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png3d4324849c31b941^b9c524849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-72.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"58154185-9C31-46BA-A2C5-164097F0002B-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+s422681732.152347
+e422681732.154514
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloWorld.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-72@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png032727849c31b941^c09227849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"FAC94E7D-1B1C-4C2F-806F-A4021B8D981B-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+s422681732.141027
+e422681732.142814
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76.png
+xbuild/emulator/HelloWorld.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-76.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.pngbf2924849c31b941^d19524849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-76.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-76.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"B5D0C4CD-8F01-464B-AF1D-8DB843CF008F-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+s422681732.152497
+e422681732.154500
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloWorld.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-76@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.pngaf2627849c31b941^088e27849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"B327612B-E212-4F48-8AB7-BA31D4663177-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+s422681732.144231
+e422681732.146971
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small.png
+xbuild/emulator/HelloWorld.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-small.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png0f0b25849c31b941^b5a625849c31b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-small.png0034f44eddffdf42^936"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-small.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"7E834C49-456D-4285-B933-23CE1936E92B-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+s422681732.145966
+e422681732.148170
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloWorld.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/HelloWorld.app/icon-small@2x.png111"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png3a7925849c31b941^ddee25849c31b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png0034f44eddffdf42^945"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"093E7C24-EE6C-4ABD-8FCD-842F4F7681CA-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+s422681732.141543
+e422681732.143081
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon.png
+xbuild/emulator/HelloWorld.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/HelloWorld.app/icon.png93"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.pnga75924849c31b941^0fba24849c31b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon.png0034f44eddffdf42^918"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"4AEA8CD5-3652-471C-8263-DEFBFCD75AB6-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+s422681732.141780
+e422681732.143698
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon@2x.png
+xbuild/emulator/HelloWorld.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon@2x.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.pnge56224849c31b941^f4de24849c31b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png0034f44eddffdf42^927"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"12E720A2-E491-46D8-823C-5BE11EBCEE80-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+s422681732.150119
+e422681732.153544
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-568h@2x~iphone.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.pngedb726849c31b941^1e5327849c31b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png0034f44eddffdf42^974"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"976034B6-B7A4-4659-92CA-361E1E2119B7-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+s422681732.144706
+e422681732.150364
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png136"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png494725849c31b941^098b26849c31b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png0034f44eddffdf42^983"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"23A7B86A-7C4C-46EF-B838-608EDAE8899E-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+s422681732.145167
+e422681732.149942
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-Landscape~ipad.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png575f25849c31b941^b18726849c31b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png0034f44eddffdf42^974"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"396C12AA-CBA0-4CB9-B030-6F448826847D-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+s422681732.145447
+e422681732.150799
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png134"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png035f25849c31b941^a0c126849c31b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png0034f44eddffdf42^980"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"7746912D-5C47-44E5-A0EC-CFE5F5181058-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+s422681732.146278
+e422681732.151067
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/HelloWorld.app/Default-Portrait~ipad.png128"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.pngefac25849c31b941^2dcc26849c31b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png0034f44eddffdf42^971"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"7EFAD9BB-80DE-43A2-ACA2-046E10F2BE29-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+s422681732.147498
+e422681732.150795
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/HelloWorld.app/Default@2x~iphone.png120"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.pngb5e025849c31b941^679c26849c31b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png0034f44eddffdf42^959"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"620B37F5-29F3-4B58-A20A-7CB4FE1F7AF0-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+s422681732.149218
+e422681732.152383
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloWorld.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/HelloWorld.app/Default~iphone.png114"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.pngf85026849c31b941^5c0327849c31b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png0034f44eddffdf42^950"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"1B0BC11A-76CF-4144-A2E8-1642E31BD666-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CGenerateDSYMFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+s422682079.359939
+e422682079.401864
+r1
+xGenerateDSYMFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Generate /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorldfc365cdf9d31b941^05e166df9d31b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM/0000000000000000^934"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app.dSYM36"0852D5D7-75BD-4583-89F9-38C5560FEF2A-
+bAE99F557-8052-4067-AA04-6DC3488B9097
+
+CLd /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+s422681740.701662
+e422681740.879409
+r1
+xLd
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+d/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld63"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i3863bc8b38c9c31b941^7921e18c9c31b941^---0#0#1#--1997"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386    cd /Users/MacBookRetina/denver_deals/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -filelist /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld_dependency_info.dat -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/HelloWorld36"D5E12AB9-DADB-4F69-91B5-0A9500902ED2-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CPhaseScriptExecution Copy\ www\ directory /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s422682079.145929
+e422682079.354537
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.190s
+ouser	0m0.070s
+osys	0m0.115s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh8eaf25df9d31b941^acc65adf9d31b941^-42"real	0m0.190suser	0m0.070ssys	0m0.115s3(21%IDEActivityLogMessage2@14"real	0m0.190s-422682079#1#14#-0#-----2@14"user	0m0.070s-422682079#15#14#-0#-----2@13"sys	0m0.115s-422682079#29#13#-0#-----0#0#1#--362"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/MacBookRetina/denver_deals/platforms/ios    /bin/sh -c /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh36"F5E24271-24DC-42AA-B170-D572FA0F9487-
+bAE99F557-8052-4067-AA04-6DC3488B9097
+
+CProcessInfoPlistFile /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s422682079.141728
+e422682079.144636
+r1
+xProcessInfoPlistFile
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+x/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m4e6224df9d31b941^100725df9d31b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^1023"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    builtin-infoPlistUtility /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"D210EF53-C16C-4EDE-AC4A-3C0B7DE4B263-
+bAE99F557-8052-4067-AA04-6DC3488B9097
+
+CProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422681740.138127
+e422681740.620441
+r1
+xProcessPCH
+x/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch310"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera779238c9c31b941^28d59e8c9c31b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Prefix.pch0000000000000000^4070"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/usr/local/lib/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/UninstalledProducts/include -I/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/MacBookRetina/denver_deals/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator --serialize-diagnostics /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.d -c /Users/MacBookRetina/denver_deals/platforms/ios/HelloWorld/HelloWorld-Prefix.pch -o /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-feoevdnrbyjtrrfeeunxggbuywbn/HelloWorld-Prefix.pch.pch36"B3862C8B-4E09-462B-8F77-1912FB5AF9C3-
+bF3F15F37-B93B-448D-8CD0-BB88B7AFC5AB
+
+CTouch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app
+s422682079.402675
+e422682079.406198
+r1
+xTouch
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Touch /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.appb72467df9d31b941^c1fe67df9d31b941^---0#0#1#--694"[1mTouch[0m build/emulator/HelloWorld.app    cd /Users/MacBookRetina/denver_deals/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools:/Development/adt-bundle/sdk/platform-tools:/Development/adt-bundle/sdk/toolscd"    /usr/bin/touch -c /Users/MacBookRetina/denver_deals/platforms/ios/build/emulator/HelloWorld.app36"365F4072-6B82-4847-8693-E614DD68F7AA-
+bAE99F557-8052-4067-AA04-6DC3488B9097
+

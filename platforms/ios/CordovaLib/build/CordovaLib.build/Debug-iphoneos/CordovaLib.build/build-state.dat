@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053478ED30000000000000132
+t1397198547
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531FE6F4000000000000036B
+t1394599668
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE6F5000000000000019E
+t1394599669
+s414
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005388EB3B0000000000000516
+t1401482043
+s1302
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005388EB3B0000000000000CFB
+t1401482043
+s3323
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005388EB3B00000000000008BA
+t1401482043
+s2234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005388EB3B00000000000004E2
+t1401482043
+s1250
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005388EB3B000000000000183A
+t1401482043
+s6202
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005388EB3B0000000000000503
+t1401482043
+s1283
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005388EB3B0000000000001ED0
+t1401482043
+s7888
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005388EB3B00000000000004CB
+t1401482043
+s1227
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005388EB3B0000000000000EBF
+t1401482043
+s3775
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005388EB3B0000000000000401
+t1401482043
+s1025
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005388EB3B00000000000007E6
+t1401482043
+s2022
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005388EB3B0000000000000DDE
+t1401482043
+s3550
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005388EB3B00000000000003DA
+t1401482043
+s986
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005388EB3B00000000000009A1
+t1401482043
+s2465
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005388EB3B00000000000006CF
+t1401482043
+s1743
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005388EB3B0000000000004C7E
+t1401482043
+s19582
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005388EB3B0000000000000892
+t1401482043
+s2194
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005388EB3B00000000000016AE
+t1401482043
+s5806
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005388EB3B0000000000000C13
+t1401482043
+s3091
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005388EB3B0000000000001B29
+t1401482043
+s6953
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005388EB3B0000000000000408
+t1401482043
+s1032
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005388EB3B00000000000003E6
+t1401482043
+s998
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005388EB3B00000000000006BD
+t1401482043
+s1725
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005388EB3B000000000000038D
+t1401482043
+s909
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005388EB3B0000000000000AA2
+t1401482043
+s2722
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005388EB3B000000000000041C
+t1401482043
+s1052
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005388EB3B000000000000259E
+t1401482043
+s9630
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005388EB3B0000000000000421
+t1401482043
+s1057
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005388EB3B0000000000001361
+t1401482043
+s4961
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005388EB3B0000000000000ACC
+t1401482043
+s2764
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005388EB3B0000000000008FD2
+t1401482043
+s36818
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005388EB3B00000000000005A2
+t1401482043
+s1442
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005388EB3B0000000000003795
+t1401482043
+s14229
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005388EB3B00000000000004B4
+t1401482043
+s1204
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005388EB3B0000000000002814
+t1401482043
+s10260
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005388EB3B0000000000000392
+t1401482043
+s914
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005388EB3B00000000000004D8
+t1401482043
+s1240
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005388EB3B000000000000037D
+t1401482043
+s893
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005388EB3B00000000000022CC
+t1401482043
+s8908
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005388EB3B00000000000005DA
+t1401482043
+s1498
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005388EB3B0000000000001059
+t1401482043
+s4185
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005388EB3B00000000000003A0
+t1401482043
+s928
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005388EB3B0000000000000584
+t1401482043
+s1412
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005388EB3B0000000000000476
+t1401482043
+s1142
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005388EB3B0000000000000620
+t1401482043
+s1568
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005388EB3B0000000000000346
+t1401482043
+s838
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+t1401498107
+s65868
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+t1401498107
+s62056
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+t1401498107
+s29072
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+t1401498107
+s18244
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+t1401498107
+s10880
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+t1401498107
+s109284
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+t1401498107
+s56740
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+t1401498107
+s36524
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+t1401498107
+s9104
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+t1401498107
+s22860
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+t1401498107
+s70680
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+t1401498107
+s52516
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+t1401498107
+s178640
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+t1401498107
+s70300
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+t1401498107
+s44860
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList
+c00000000538929FA0000000000000C03
+t1401498106
+s3075
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+t1401498107
+s7332
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+t1401498107
+s10472
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+t1401498107
+s17096
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+t1401498107
+s6888
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+t1401498107
+s9368
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h
+t1401498106
+s1302
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+t1401498106
+s3323
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+t1401498106
+s2234
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+t1401498106
+s1250
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+t1401498106
+s1283
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+t1401498106
+s1227
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h
+t1401498106
+s1025
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+t1401498106
+s2022
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h
+t1401498106
+s986
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+t1401498106
+s1743
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+t1401498106
+s2194
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+t1401498106
+s3091
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+t1401498106
+s1032
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h
+t1401498106
+s998
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h
+t1401498106
+s909
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+t1401498106
+s1052
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+t1401498106
+s1057
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h
+t1401498106
+s2764
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+t1401498106
+s1442
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+t1401498106
+s1204
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+t1401498106
+s914
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+t1401498106
+s893
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+t1401498106
+s1498
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+t1401498106
+s928
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+t1401498106
+s1142
+
+N/Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a
+t1401498107
+s896560
+
+N/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch
+t1401498107
+s3182804
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese5439c816439b941^de8eb0816439b941^---0#1#1#--18"Check dependencies36"CF6FB529-9DE9-4E8F-9520-5117D4653FEA-
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.275490
+e423190907.569187
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m227"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fa6467b6139b941^a1ba917b6139b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3736"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandDelegateImpl.o36"EF38DEE3-82AC-436C-BA83-8B18EE5EF15E-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.229935
+e423190907.536625
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler7eff3a7b6139b941^bc76897b6139b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3694"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVCommandQueue.o36"835D12E9-930D-47BC-9242-8BC9E7158F48-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.278982
+e423190907.360677
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd97477b6139b941^0b5e5c7b6139b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3694"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVConfigParser.o36"77C865F7-EB36-4534-9EB9-FDC0E952DB40-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.133821
+e423190907.208441
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m223"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d60227b6139b941^dd5f357b6139b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3724"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVInvokedUrlCommand.o36"C6E53627-678C-467D-94E0-4131EC8E389B-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.365374
+e423190907.415857
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m197"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o [1mClasses/CDVJSON.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler7f175e7b6139b941^bc756a7b6139b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3646"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o [1mClasses/CDVJSON.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVJSON.o36"DE68505D-A7B9-482C-B388-FBBF022214BF-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.209776
+e423190907.594498
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera6d4357b6139b941^2635987b6139b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3694"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVLocalStorage.o36"33D7B72C-4E25-4B45-90CD-ACC3EEE6A0EC-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.134630
+e423190907.519239
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m201"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler98a4227b6139b941^1d93857b6139b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3658"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPlugin.o36"35F2F45E-B398-4222-98A7-7ACCAD04AD94-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.134219
+e423190907.229187
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m213"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f7f227b6139b941^14083b7b6139b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3694"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVPluginResult.o36"B6C2DB57-F34C-4669-AA49-491F7A83D831-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.538668
+e423190907.593570
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m201"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o [1mClasses/CDVShared.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler304c8a7b6139b941^b708987b6139b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3658"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o [1mClasses/CDVShared.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVShared.o36"1DDFA5C2-B763-4EE7-B545-984977772AEF-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.519616
+e423190907.580835
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m199"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o [1mClasses/CDVTimer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f27857b6139b941^13b5947b6139b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3652"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o [1mClasses/CDVTimer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVTimer.o36"6E06C607-68F2-402D-9040-2A09D4E6E5F2-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.135950
+e423190907.542454
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m211"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6eb227b6139b941^ecf98a7b6139b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3688"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVURLProtocol.o36"363CC823-6D4B-4131-A8A6-C6C5C5C95791-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.416272
+e423190907.638888
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m215"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler52b86a7b6139b941^0090a37b6139b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3700"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVUserAgentUtil.o36"2752734C-5736-4210-8B97-537916C96C17-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.206715
+e423190907.756744
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m217"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o [1mClasses/CDVViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerad15357b6139b941^45bcc17b6139b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3706"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o [1mClasses/CDVViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVViewController.o36"E61263D6-651A-48D0-B587-6E1CB33AB655-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.475185
+e423190907.705491
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m219"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2aca797b6139b941^f299b47b6139b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3712"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWebViewDelegate.o36"B7A6FDC1-BDDA-409C-BB8B-9EF591B14C66-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.135432
+e423190907.276193
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m207"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4111237b6139b941^28d5467b6139b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3676"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/CDVWhitelist.o36"3DDCF8F6-6B0E-4A7A-A7DD-9E106B4D6C3B-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.213027
+e423190907.275163
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m221"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9415377b6139b941^18cd467b6139b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3718"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSArray+Comparisons.o36"DC5F53DB-E2E1-43D2-87D9-FB99A384A42C-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.134011
+e423190907.207399
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m209"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6879227b6139b941^f832357b6139b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3682"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSData+Base64.o36"BD178ADB-C467-4131-9DAE-A2593630A75F-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.133591
+e423190907.210535
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m229"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera648227b6139b941^46ea357b6139b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3742"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSDictionary+Extensions.o36"9DB5490B-A0A8-4848-B2F5-A0E8DFF6ED33-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.135001
+e423190907.206326
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m241"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler88d6227b6139b941^37df347b6139b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3778"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/NSMutableArray+QueueAdditions.o36"7241364F-C0C5-43EF-980B-CCA67BBB5BFE-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCompileC build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190907.210399
+e423190907.474625
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o
+x/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m221"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilercd3f367b6139b941^a4e4797b6139b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3718"[1mCompileC[0m build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG -include /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.d --serialize-diagnostics /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.dia -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/UIDevice+Extensions.o36"FFBE84C7-AC98-43B8-AEBE-464106A72F81-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDV.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h
+s423190906.739295
+e423190906.741815
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h121"[1mCpHeader[0m Classes/CDV.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h[0m6c5ebd7a6139b941^d34dbe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h0000000000000000^806"[1mCpHeader[0m Classes/CDV.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDV.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDV.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"CD2B5158-6B05-4FF1-865D-D2C7DA51CD4C-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVAvailability.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+s423190906.739555
+e423190906.743033
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h145"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h[0mdf6ebd7a6139b941^fa99be7a6139b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h0000000000000000^842"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVAvailability.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"0605179A-00D9-44E2-991E-37565E7FAA23-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+s423190906.738450
+e423190906.741703
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h151"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h[0mc636bd7a6139b941^3b3abe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h0000000000000000^851"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"ED9B1BCB-29F0-4B25-857C-24D040B2AFDC-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+s423190906.742784
+e423190906.745464
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h159"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h[0mb840be7a6139b941^95d7be7a6139b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h0000000000000000^863"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"5E3C3B9F-7C6B-43F5-9805-76814FC5B685-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVCommandQueue.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+s423190906.741414
+e423190906.744516
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h145"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h[0m98f6bd7a6139b941^23bfbe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h0000000000000000^842"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"7775F16B-55AC-4222-98EA-C7839A96F636-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVConfigParser.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+s423190906.744090
+e423190906.747624
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h145"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h[0me9eebe7a6139b941^f164bf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h0000000000000000^842"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVConfigParser.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"AE8ACC53-E0C6-42B8-9C21-2F2A78A5B4F0-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVDebug.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h
+s423190906.736035
+e423190906.738800
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h131"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h[0mf790bc7a6139b941^c973bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h0000000000000000^821"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVDebug.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"ABD4F43A-69B2-4E6A-8E0B-F6FA4A595AD1-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+s423190906.732653
+e423190906.737274
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h155"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h[0mcfbdbb7a6139b941^9948bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h0000000000000000^857"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"E10B689A-A8C0-47A7-932C-3BF4C7EC710D-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVJSON.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h
+s423190906.745746
+e423190906.748275
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h129"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h[0maa10bf7a6139b941^ac8fbf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h0000000000000000^818"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVJSON.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"8E753591-5C82-4CEE-A936-1FCB3BFD5F4C-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVLocalStorage.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+s423190906.739799
+e423190906.743027
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h145"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h[0mcb82bd7a6139b941^2c7fbe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h0000000000000000^842"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"FB7D2CB4-1F36-4FDE-A2E4-D7F72B18FC1B-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVPlugin.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+s423190906.733702
+e423190906.738515
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h133"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h[0m1bf2bb7a6139b941^ea5cbd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h0000000000000000^824"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPlugin.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"6BDCC69E-4D97-44B4-8DA7-2AAFDB91D1E1-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVPluginResult.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+s423190906.733107
+e423190906.737561
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h145"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h[0mafccbb7a6139b941^0d51bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h0000000000000000^842"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVPluginResult.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"870C2DF1-A8C1-42C2-B268-F7263A211166-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+s423190906.743941
+e423190906.747113
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h171"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h[0mc39ebe7a6139b941^b743bf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h0000000000000000^881"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"FE408C34-DFCB-4502-9B28-F14736284531-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVShared.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h
+s423190906.743398
+e423190906.745868
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h133"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h[0m936fbe7a6139b941^200dbf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h0000000000000000^824"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVShared.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"51661FF1-6393-4B2A-84DB-68F038A93830-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVTimer.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h
+s423190906.747091
+e423190906.749411
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h131"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h[0mb267bf7a6139b941^40dabf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h0000000000000000^821"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVTimer.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"1C71B4E6-B510-4C30-8A3F-595BA3623BBF-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVURLProtocol.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+s423190906.737115
+e423190906.741235
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h143"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h[0m9626bd7a6139b941^2e1abe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h0000000000000000^839"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"FD73ACE5-CAC8-4F03-B591-55A8711FA97E-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+s423190906.746619
+e423190906.748950
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h147"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h[0m423fbf7a6139b941^34babf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h0000000000000000^845"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"73E4F15D-84BE-4371-BC64-4547421D6A5D-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVViewController.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h
+s423190906.738947
+e423190906.742134
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h149"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h[0me945bd7a6139b941^4353be7a6139b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h0000000000000000^848"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVViewController.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"DE469EEA-E5E1-4C05-AE91-10DDC8D1A8A8-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+s423190906.746334
+e423190906.748602
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h151"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h[0m1826bf7a6139b941^9ca6bf7a6139b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h0000000000000000^851"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"BB36077C-57B5-4871-8E8F-D8D309390B2C-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/CDVWhitelist.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+s423190906.736486
+e423190906.739007
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h139"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h[0m999ebc7a6139b941^1ff3bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h0000000000000000^833"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/CDVWhitelist.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"C248B804-81D8-4DEC-A35D-AA5593822E7F-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+s423190906.742165
+e423190906.745722
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h153"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h[0m7e36be7a6139b941^c0ecbe7a6139b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h0000000000000000^854"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"7A9D0EE6-DCE6-43DF-A525-C69DBB6CBDF5-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/NSData+Base64.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+s423190906.732836
+e423190906.737146
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h141"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h[0mf9bbbb7a6139b941^6616bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h0000000000000000^836"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSData+Base64.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"76F0ECB2-D3B6-4197-8C25-3AA4E3D0A9D5-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+s423190906.732503
+e423190906.736939
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h161"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h[0md8bbbb7a6139b941^57b5bc7a6139b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h0000000000000000^866"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"387BA1AF-8481-40B0-98D4-DB8E65EC714F-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+s423190906.736207
+e423190906.738945
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h173"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h[0mc58cbc7a6139b941^7383bd7a6139b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h0000000000000000^884"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"08361E69-B168-4E69-A79F-315EA21CFCF7-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+s423190906.740349
+e423190906.744634
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h153"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h[0m6402be7a6139b941^15c6be7a6139b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h0000000000000000^854"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/MacBookRetina/denver_deals/platforms/ios/build/device/include/Cordova36"BB9033B5-74FB-41DB-8275-9B65132523AB-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CLibtool /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a normal armv7
+s423190907.758079
+e423190907.882718
+r1
+xLibtool
+x/Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"[1mLibtool[0m /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a normal armv7102"[1mLibtool[0m /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a normal armv7c422c27b6139b941^87fae17b6139b941^---0#0#1#--1111"[1mLibtool[0m /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a normal armv7    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/MacBookRetina/denver_deals/platforms/ios/build/device -filelist /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/Cordova.LinkFileList -o /Users/MacBookRetina/denver_deals/platforms/ios/build/device/libCordova.a36"F41687CD-0FB0-4F79-B8EA-16496B4FEE11-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+
+CProcessPCH /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423190906.750131
+e423190907.132866
+r1
+xProcessPCH
+x/var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch300"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc025c07a6139b941^9203227b6139b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3698"[1mProcessPCH[0m /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Applications/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Applications/adt-bundle-mac-x86_64-20140321/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-generated-files.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Cordova-project-headers.hmap -I/Users/MacBookRetina/denver_deals/platforms/ios/build/device/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources/armv7 -I/Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/DerivedSources -F/Users/MacBookRetina/denver_deals/platforms/ios/build/device -DDEBUG --serialize-diagnostics /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.d -c /Users/MacBookRetina/denver_deals/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/14/zds7yfxn6dv51n0t06s6h9wc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-avboxkuzpljfdycvcixqtifeidru/CordovaLib_Prefix.pch.pch36"69EC4CC5-A0F3-4F4C-BE51-395D1FE87264-
+bB1A284A0-95A5-4E5D-9EE5-20DDD4EFF9B8
+

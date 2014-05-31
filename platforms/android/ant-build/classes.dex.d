@@ -1,0 +1,24 @@
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes.dex : \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/DenverDeals.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/Users/MacBookRetina/denver_deals/platforms/android/ant-build/dexedLibs/classes-90c13ab341f8dec468fbe4046dfd34df.jar \

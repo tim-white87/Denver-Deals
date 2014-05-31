@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Denver Deals</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+        
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="css/index.css" >
+        <link rel="stylesheet" type="text/css" href="js/libs/jquery.mobile-1.4.2/jquery.mobile-1.4.2.min.css">
+        <link rel="stylesheet" href="css/themes/mountain.min.css" />
+  <link rel="stylesheet" href="css/themes/jquery.mobile.icons.min.css" />
+        <link rel="stylesheet" type="text/css" href="js/libs/zrssfeed-120/jquery.zrssfeed.css">
+        
+        <!-- Scripts -->
+        <script src="js/libs/jquery.min.js"></script>
+        <script>
+            $(document).on("mobileinit", function() {
+                $.support.cors = true;
+                $.mobile.allowCrossDomainPages = true;
+                
+            });
+        </script>
+        <script src="js/libs/jquery.mobile-1.4.2/jquery.mobile-1.4.2.min.js"></script>
+        <script src="js/libs/zrssfeed-120/jquery.zrssfeed.min.js"></script>
+        <script src="js/index.js"></script>
+        
+    </head>
+    <body>
+        
+        <!-----------------------------------------
+         _ _                    ___                
+        | | | ___ ._ _ _  ___  | . \ ___  ___  ___ 
+        |   |/ . \| ' ' |/ ._> |  _/<_> |/ . |/ ._>
+        |_|_|\___/|_|_|_|\___. |_|  <___|\_. |\___.
+                                         <___'     
+        ------------------------------------------->
+        <div data-role="page" id="home">
+            <div data-role="header">
+                <h1>Denver Deals</h1>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#home" data-icon="home" class="ui-btn-active ui-state-persist" data-transition="flip">Home</a></li>
+                        <li><a href="#rss_feed" data-icon="grid" data-transition="flip">Feed</a></li>
+                        <li><a href="#credits" data-icon="info" data-transition="flip">Credits</a></li>
+                    </ul>
+                </div><!-- /navbar -->
+            </div><!-- /header -->
+            <div role="main" class="ui-content">
+                <a href="#rss_feed" class="ui-btn ui-shadow ui-corner-all" data-transition="flip">Denver Deals Feed</a>
+                <a href="#credits" class="ui-btn ui-shadow ui-corner-all" data-transition="flip">Credits</a>
+                <div class="ui-body-a ui-corner-all ui-shadow">
+                    <h3>Welcome To Denver Deals!</h3>
+                    <p><strong>Denver Deals</strong> is the home of the best food, drink and entertainment deals around Denver. We provide a constant stream of excelent deals so that when you want to have fun, you get the right price.</p>
+                    <img src="img/denver_deals.png">
+                </div>
+            </div><!-- /content -->
+            <div data-role="footer">
+            </div><!-- /footer -->
+        </div><!-- /page -->
+        
+        <!---------------------------------
+         ___  ___  ___   ___             _ 
+        | . \/ __>/ __> | __>___  ___  _| |
+        |   /\__ \\__ \ | _>/ ._>/ ._>/ . |
+        |_\_\<___/<___/ |_| \___.\___.\___|
+        ----------------------------------->
+
+        <div data-role="page" id="rss_feed">
+            <div data-role="header">
+                <h1>RSS Feed</h1>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#home" data-icon="home" data-transition="flip">Home</a></li>
+                        <li><a href="#rss_feed" data-icon="grid" class="ui-btn-active ui-state-persist" data-transition="flip">Feed</a></li>
+                        <li><a href="#credits" data-icon="info" data-transition="flip">Credits</a></li>
+                    </ul>
+                </div><!-- /navbar -->
+            </div><!-- /header -->
+            <div role="main" class="ui-content">
+                <div class="ui-body-inherit ui-corner-all ui-shadow" id="feed"></div>
+            </div><!-- /content -->
+        </div><!-- /page -->
+        
+        <!-------------------------------
+         ___              _  _    _      
+        |  _> _ _  ___  _| |<_> _| |_ ___
+        | <__| '_>/ ._>/ . || |  | | <_-<
+        \___/|_|  \___.\___||_|  |_| /__/
+        --------------------------------->
+        <div data-role="page" id="credits">
+            <div data-role="header">
+                <h1>Credits</h1>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#home" data-icon="home" data-transition="flip">Home</a></li>
+                        <li><a href="#rss_feed" data-icon="grid" data-transition="flip">Feed</a></li>
+                        <li><a href="#credits" data-icon="info" class="ui-btn-active ui-state-persist" data-transition="flip">Credits</a></li>
+                    </ul>
+                </div><!-- /navbar -->
+            </div><!-- /header -->
+            <div role="main" class="ui-content">
+                <div class="ui-body-a ui-corner-all ui-shadow">
+                    <h3>Thank You!</h3>
+                    <p>This app was made as a class project for ICT 4580 Mobile Application Development with Web Standards by Tim White.</p>
+                    <p>I wanted to give special thanks to everyone in class who helped me create this app, especially Prof. Joseph Labrecque.</p>
+                    <p>Another special thank you goes out to my extremely tolerant Aussie named Oso. He has been very patient throughout this last quarter with my heavy course load and work schedule.</p>
+                    <img src="img/aussie.png">
+                    </div>
+            </div><!-- /content -->
+        </div><!-- /page -->
+        
+
+    </body>
+</html>
